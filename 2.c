@@ -1,7 +1,7 @@
 #include <stdio.h>
-int
-main ()
+int main ()
 {
+ //calculator
   int a = 100, b = 10;
   int sum = a + b;
   int sub = a - b;
